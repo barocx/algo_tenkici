@@ -1,0 +1,5 @@
+DARK_CYAN = "darkcyan"
+TILES_X = 60
+TILES_Y = 40
+TILE_SIZE = 16
+FPS = 60
