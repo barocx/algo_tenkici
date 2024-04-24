@@ -15,7 +15,7 @@ class Game:
         self.wall_manager = Wall_Manager(self.grid_size,self.tile_size)
         self.sprite_manager = Sprite_Manager(self)
         self.input_manager = Input_Manager(self)
-        
+        print("Game started")
         self.running = True
     def run(self):
         
